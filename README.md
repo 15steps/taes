@@ -4,6 +4,8 @@ Este projeto tem o objetivo de investigar a percepção dos hábitos de testes d
 
 Os dados utilizados para o desenvolvimento do projeto como perguntas de entrevista, resultados, gravações e gráficos podem ser encontrados [neste repositório](https://github.com/oknotok97/taes).
 
+### [Gravações](/audio-entrevistas)
+
 ### Resultados
 
 A partir da análise dos dados coletados nas entrevistas, foi possível chegar as seguintes conclusões:
