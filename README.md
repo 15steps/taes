@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Introdução
 
-You can use the [editor on GitHub](https://github.com/oknotok97/taes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este projeto tem o objetivo de investigar a percepção dos hábitos de testes de desenvolvedores, além de identificar o tempo gasto na escrita e execução de testes comparado ao desenvolvimento de código de produção. O estudo foi conduzido através de entrevistas semi-estruturadas com desenvolvedores de diversas áreas como backend, frontend e mobile, e diferentes níveis de experiência.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Os dados utilizados para o desenvolvimento do projeto como perguntas de entrevista, resultados, gravações e gráficos podem ser encontrados [neste repositório](https://github.com/oknotok97/taes).
 
 ### Markdown
 
