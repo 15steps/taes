@@ -28,4 +28,4 @@ Alguns pontos podem afetar a análise produzida por este trabalho:
 * Pequeno número de entrevistado
 * Número de desenvolvedores nas diferentes áreas desbalanceado
 * Estimativas dos desenvolvedores pode ser imprecisas
-    * Para algumas perguntas seria ideal uma observação mais controlada
+    * Para responder algumas perguntas seria ideal uma observação mais controlada
