@@ -17,10 +17,10 @@ A partir da análise dos dados coletados nas entrevistas, foi possível chegar a
     * Entre uma e três falhas antes de testes passarem
 * Desenvolvedores utilizam a IDE para executar testes
 
-### Jekyll Themes
+### Ameaças à validade
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oknotok97/taes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Alguns pontos podem afetar a análise produzida por este trabalho:
+* Pequeno número de entrevistado
+* Número de desenvolvedores nas diferentes áreas desbalanceado
+* Estimativas dos desenvolvedores pode ser imprecisas
+    * Para algumas perguntas seria ideal uma observação mais controlada
