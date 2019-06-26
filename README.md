@@ -1,3 +1,7 @@
+---
+title: Hábitos de teste de desenvolvedores
+---
+
 ## Introdução
 
 Este projeto tem o objetivo de investigar a percepção dos hábitos de testes de desenvolvedores, além de identificar o tempo gasto na escrita e execução de testes comparado ao desenvolvimento de código de produção. O estudo foi conduzido através de entrevistas semi-estruturadas com desenvolvedores de diversas áreas como backend, frontend e mobile, e diferentes níveis de experiência.
